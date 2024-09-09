@@ -21,7 +21,7 @@ class Movie: ObservableObject {
     private var movies: [String: String]
 
     init() {
-        self.index = 0
+        self.index = 7
         self.movies = [
             "Iron Man" : "Robert Downey Jr.",
             "Doctor Strange": "Benedict Cumberbatch",

@@ -18,7 +18,7 @@ struct ContentView: View {
             Text("Movies")
                 .font(.largeTitle)
                 .foregroundColor(.red)
-                .padding(.top, 50)
+                .padding(.top, 100)
 
             Text(currMovieTitle)
                 .font(.title)
